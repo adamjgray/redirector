@@ -1,0 +1,7 @@
+{
+  "name": "Redirector",
+  "description": "A dead-simple app for redirecting to a provided url.",
+  "repository": "https://github.com/adamjgray/redirector",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
